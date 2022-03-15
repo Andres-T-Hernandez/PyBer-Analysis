@@ -5,10 +5,12 @@ The purpose of this analysis is to do a more detailed analysis on PyBer rideshar
  - Rural    
  - Suburban    
  - Urban
+ 
 Through tracking data on total rides, total drivers, and total fares
 
 ## Results
 Summary of Data:
+
 ![enter image description here](https://raw.githubusercontent.com/Andres-T-Hernandez/PyBer-Analysis/main/Analysis/PyBer%20Summary.png)
 
 ![enter image description here](https://raw.githubusercontent.com/Andres-T-Hernandez/PyBer-Analysis/main/Analysis/PyBer_fare_summary.png)
